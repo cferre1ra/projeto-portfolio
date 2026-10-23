@@ -8,3 +8,7 @@
   --fundo-card
 */
 
+body {
+  background: lightgray;
+  color: darkblue;
+}
